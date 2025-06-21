@@ -1,4 +1,4 @@
-# Semester 3 Plan + Time Table
+# Semester 3 Plan + Time Table -> [View Live](https://shivam-pandya-8118.github.io/CUSP_07_Sem_03_Plan_TimeTable)
 
 This project provides a comprehensive overview of the Semester 3 academic plan and timetable for the Computer Engineering Department at C. U. Shah Government Polytechnic, Surendranagar.
 
@@ -34,9 +34,7 @@ This project provides a comprehensive overview of the Semester 3 academic plan a
 
 ## How to Use
 
-1. Open `index.html` in your web browser.
-2. View the semester plan, timetable, and faculty assignments.
-3. Click on the syllabus icon next to each subject to view/download the official syllabus PDF.
+Just [Click Here](https://shivam-pandya-8118.github.io/CUSP_07_Sem_03_Plan_TimeTable)
 
 ## Technologies Used
 
